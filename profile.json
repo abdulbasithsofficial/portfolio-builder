@@ -1,0 +1,7 @@
+{
+  "name": "Example Name",
+  "headline": "Example headline — replace with your own.",
+  "skills": ["Example skill 1", "Example skill 2"],
+  "projects": [{"name": "Example Project", "description": "Replace with your real project."}],
+  "links": {"Website": "https://example.com"}
+}
